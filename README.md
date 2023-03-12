@@ -1,6 +1,6 @@
 # List Proteus 8 Profesional Pro
 
-## Proteus 8 Pro 64 bit
+## Proteus 8 Pro Series
 * [Download versi 8.13 SP0](https://drive.google.com/file/d/1--bXVT-2sl5LRtEsJY9DvkMggucgRoEN/view?usp=sharing)
 
 # Kontribusi | Mau bertanya?
